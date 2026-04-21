@@ -57,22 +57,22 @@ Hey! I'm **Bibit Mohamed**, a first-year **BUT Informatique** student at IUT Str
 **🎮 Gaming**
 
 Competitive **League of Legends** player.
-*"Solo queue carries only."*
+
 
 </td>
 <td align="center" width="200">
 
-**📖 Reading**
+**Reading**
 
 **Light Novels**, **Manhwa** & **Manga** enjoyer.
-Current obsession: **Berserk** ⚔️
+Current obsession: **Berserk** 
 
 </td>
 <td align="center" width="200">
 
-**🦀 Side quest**
+** Side quest**
 
-Learning **Rust** — because pain builds character *(ask Guts)*.
+Learning **Rust**.
 
 </td>
 </tr>
