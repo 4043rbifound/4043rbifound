@@ -43,7 +43,6 @@ Hey! I'm **Bibit Mohamed**, a first-year **BUT Informatique** student at IUT Str
 
 ![Rust](https://skillicons.dev/icons?i=rust)
 
-> 🦀 Rust — because suffering forges warriors *(just ask Guts)*
 
 </div>
 
