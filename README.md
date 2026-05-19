@@ -15,13 +15,13 @@
 
 ---
 
-## ⚔️ About Me
+##  About Me
 
 Hey! I'm **Bibit Mohamed**, a first-year **BUT Informatique** student at IUT Strasbourg. Passionate about programming, competitive gaming, and the world of light novels and manga.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -48,15 +48,15 @@ Hey! I'm **Bibit Mohamed**, a first-year **BUT Informatique** student at IUT Str
 
 ---
 
-## 🎮 Beyond Coding
+##  Beyond Coding
 
 <table align="center">
 <tr>
 <td align="center" width="200">
 
-**🎮 Gaming**
+** Gaming**
 
-Competitive **League of Legends** player.
+ League of Legends player.
 
 
 </td>
@@ -80,11 +80,9 @@ Learning **Rust**.
 
 ---
 
-## 🌐 Connect with Me
+## 🌐Connect with Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/404.3rbifound)
 
 </div>
