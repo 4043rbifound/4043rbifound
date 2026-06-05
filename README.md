@@ -54,7 +54,7 @@ Hey! I'm **Bibit Mohamed**, a first-year **BUT Informatique** student at IUT Str
 <tr>
 <td align="center" width="200">
 
-** Gaming**
+**Gaming**
 
  League of Legends player.
 
@@ -65,26 +65,16 @@ Hey! I'm **Bibit Mohamed**, a first-year **BUT Informatique** student at IUT Str
 **Reading**
 
 **Light Novels**, **Manhwa** & **Manga** enjoyer.
-Current obsession: **Berserk** 
-
-</td>
-<td align="center" width="200">
-
-** Side quest**
-
-Learning **Rust**.
-
 </td>
 </tr>
 </table>
 
 ---
 
-## 🌐Connect with Me
+## Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/213moh)
 
 </div>
