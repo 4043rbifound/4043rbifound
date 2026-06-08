@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Bibit%20Mohamed&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Etudiant%20en%20Informatique%20-%20IUT%20Strasbourg&descAlignY=55&descColor=a8b2d8&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=1ere+annee+BUT+Informatique;Joueur+competitif+sur+League+of+Legends;Fan+de+Light+Novels+%26+Manga;En+train+d'apprendre+Rust;Fan+de+Berserk)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Etudiant+en+1ere+annee+BUT+Informatique)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,7 +33,6 @@ Salut ! Je suis **Bibit Mohamed**, etudiant en premiere annee de **BUT Informati
 <br/>
 
 **En cours d'apprentissage :**
-
 <img src="https://skillicons.dev/icons?i=rust" />
 </div>
 
