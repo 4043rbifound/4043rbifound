@@ -33,6 +33,7 @@ Salut ! Je suis **Bibit Mohamed**, etudiant en premiere annee de **BUT Informati
 <br/>
 
 **En cours d'apprentissage :**
+
 <img src="https://skillicons.dev/icons?i=rust" />
 </div>
 
