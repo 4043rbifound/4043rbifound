@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Bibit%20Mohamed&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Etudiant%20en%20Informatique%20-%20IUT%20Strasbourg&descAlignY=55&descColor=a8b2d8&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Etudiant+en+1ere+annee+BUT+Informatique)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Etudiant+en+2eme+annee+BUT+Informatique)](https://git.io/typing-svg)
 
 <br/>
 
